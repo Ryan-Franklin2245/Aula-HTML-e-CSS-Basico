@@ -1,0 +1,39 @@
+.Valor {
+    font-weight: bold;
+}
+
+.Cinza {
+    background-color: #F5F5F5;
+    margin: 40PX;
+    padding: 20PX;
+}
+
+.Fundo-colorido{
+    background-color: #F0CCE2;
+    margin: 40PX;
+    padding: 20PX;
+}
+
+.Imagem{
+    margin-top: 30px;
+}
+
+.Titulo-Moda{
+    background-color:blueviolet
+}
+
+.Itens-Moda{
+    background-color: black;
+    color: #F5F5F5;
+    margin: 1px;
+}
+
+.Itens-Casa{
+    background-color: darkgray;
+    color: white;
+}
+
+.Titulo-Casa{
+    background-color: aquamarine;
+    color: white;
+}
